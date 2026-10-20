@@ -55,7 +55,7 @@ app.MapControllerRoute(
 
 //---------------------------------------------\\
 //"Inline Constraint" constraint for "Checking Data Types"
-// See more at https://www.tektutorialshub.com/asp-net-core/asp-net-core-route-constraints/
+// See more at https://learn.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetcore-10.0#route-constraints
 //app.MapControllerRoute(
 //    name: "filtered2",
 //    pattern: "Filter/{letter:alpha:length(1)?}",
